@@ -1,0 +1,15 @@
+C:\Users\Tomeshwar\Documents\Codex\2026-05-30\files-mentioned-by-the-user-naps2\work\naps2-master\NAPS2.Escl.Server\bin\Debug\net8\NAPS2.Escl.Server.deps.json
+C:\Users\Tomeshwar\Documents\Codex\2026-05-30\files-mentioned-by-the-user-naps2\work\naps2-master\NAPS2.Escl.Server\bin\Debug\net8\NAPS2.Escl.Server.dll
+C:\Users\Tomeshwar\Documents\Codex\2026-05-30\files-mentioned-by-the-user-naps2\work\naps2-master\NAPS2.Escl.Server\bin\Debug\net8\NAPS2.Escl.Server.pdb
+C:\Users\Tomeshwar\Documents\Codex\2026-05-30\files-mentioned-by-the-user-naps2\work\naps2-master\NAPS2.Escl.Server\bin\Debug\net8\NAPS2.Escl.dll
+C:\Users\Tomeshwar\Documents\Codex\2026-05-30\files-mentioned-by-the-user-naps2\work\naps2-master\NAPS2.Escl.Server\bin\Debug\net8\NAPS2.Escl.pdb
+C:\Users\Tomeshwar\Documents\Codex\2026-05-30\files-mentioned-by-the-user-naps2\work\naps2-master\NAPS2.Escl.Server\obj\Debug\net8\NAPS2.Escl.Server.csproj.AssemblyReference.cache
+C:\Users\Tomeshwar\Documents\Codex\2026-05-30\files-mentioned-by-the-user-naps2\work\naps2-master\NAPS2.Escl.Server\obj\Debug\net8\NAPS2.Escl.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomeshwar\Documents\Codex\2026-05-30\files-mentioned-by-the-user-naps2\work\naps2-master\NAPS2.Escl.Server\obj\Debug\net8\NAPS2.Escl.Server.AssemblyInfoInputs.cache
+C:\Users\Tomeshwar\Documents\Codex\2026-05-30\files-mentioned-by-the-user-naps2\work\naps2-master\NAPS2.Escl.Server\obj\Debug\net8\NAPS2.Escl.Server.AssemblyInfo.cs
+C:\Users\Tomeshwar\Documents\Codex\2026-05-30\files-mentioned-by-the-user-naps2\work\naps2-master\NAPS2.Escl.Server\obj\Debug\net8\NAPS2.Escl.Server.csproj.CoreCompileInputs.cache
+C:\Users\Tomeshwar\Documents\Codex\2026-05-30\files-mentioned-by-the-user-naps2\work\naps2-master\NAPS2.Escl.Server\obj\Debug\net8\NAPS2.Es.20EE7895.Up2Date
+C:\Users\Tomeshwar\Documents\Codex\2026-05-30\files-mentioned-by-the-user-naps2\work\naps2-master\NAPS2.Escl.Server\obj\Debug\net8\NAPS2.Escl.Server.dll
+C:\Users\Tomeshwar\Documents\Codex\2026-05-30\files-mentioned-by-the-user-naps2\work\naps2-master\NAPS2.Escl.Server\obj\Debug\net8\refint\NAPS2.Escl.Server.dll
+C:\Users\Tomeshwar\Documents\Codex\2026-05-30\files-mentioned-by-the-user-naps2\work\naps2-master\NAPS2.Escl.Server\obj\Debug\net8\NAPS2.Escl.Server.pdb
+C:\Users\Tomeshwar\Documents\Codex\2026-05-30\files-mentioned-by-the-user-naps2\work\naps2-master\NAPS2.Escl.Server\obj\Debug\net8\ref\NAPS2.Escl.Server.dll

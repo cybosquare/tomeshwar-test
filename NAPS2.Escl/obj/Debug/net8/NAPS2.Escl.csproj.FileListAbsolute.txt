@@ -1,0 +1,12 @@
+C:\Users\Tomeshwar\Documents\Codex\2026-05-30\files-mentioned-by-the-user-naps2\work\naps2-master\NAPS2.Escl\bin\Debug\net8\NAPS2.Escl.deps.json
+C:\Users\Tomeshwar\Documents\Codex\2026-05-30\files-mentioned-by-the-user-naps2\work\naps2-master\NAPS2.Escl\bin\Debug\net8\NAPS2.Escl.dll
+C:\Users\Tomeshwar\Documents\Codex\2026-05-30\files-mentioned-by-the-user-naps2\work\naps2-master\NAPS2.Escl\bin\Debug\net8\NAPS2.Escl.pdb
+C:\Users\Tomeshwar\Documents\Codex\2026-05-30\files-mentioned-by-the-user-naps2\work\naps2-master\NAPS2.Escl\obj\Debug\net8\NAPS2.Escl.csproj.AssemblyReference.cache
+C:\Users\Tomeshwar\Documents\Codex\2026-05-30\files-mentioned-by-the-user-naps2\work\naps2-master\NAPS2.Escl\obj\Debug\net8\NAPS2.Escl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomeshwar\Documents\Codex\2026-05-30\files-mentioned-by-the-user-naps2\work\naps2-master\NAPS2.Escl\obj\Debug\net8\NAPS2.Escl.AssemblyInfoInputs.cache
+C:\Users\Tomeshwar\Documents\Codex\2026-05-30\files-mentioned-by-the-user-naps2\work\naps2-master\NAPS2.Escl\obj\Debug\net8\NAPS2.Escl.AssemblyInfo.cs
+C:\Users\Tomeshwar\Documents\Codex\2026-05-30\files-mentioned-by-the-user-naps2\work\naps2-master\NAPS2.Escl\obj\Debug\net8\NAPS2.Escl.csproj.CoreCompileInputs.cache
+C:\Users\Tomeshwar\Documents\Codex\2026-05-30\files-mentioned-by-the-user-naps2\work\naps2-master\NAPS2.Escl\obj\Debug\net8\NAPS2.Escl.dll
+C:\Users\Tomeshwar\Documents\Codex\2026-05-30\files-mentioned-by-the-user-naps2\work\naps2-master\NAPS2.Escl\obj\Debug\net8\refint\NAPS2.Escl.dll
+C:\Users\Tomeshwar\Documents\Codex\2026-05-30\files-mentioned-by-the-user-naps2\work\naps2-master\NAPS2.Escl\obj\Debug\net8\NAPS2.Escl.pdb
+C:\Users\Tomeshwar\Documents\Codex\2026-05-30\files-mentioned-by-the-user-naps2\work\naps2-master\NAPS2.Escl\obj\Debug\net8\ref\NAPS2.Escl.dll
